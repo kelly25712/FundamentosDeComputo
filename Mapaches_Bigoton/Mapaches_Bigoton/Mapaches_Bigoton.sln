@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapaches_Bigoton", "Mapaches_Bigoton\Mapaches_Bigoton.csproj", "{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C12B269C-6A2F-4364-AABD-BFFAB78B21AA}
+	EndGlobalSection
+EndGlobal
