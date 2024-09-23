@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Git\\fundamentos de computo\\ACT1_u2\\FundamentosDeComputo\\Mapaches_Bigoton\\Mapaches_Bigoton\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}|Mapaches_Bigoton\\Mapaches_Bigoton.csproj|c:\\git\\fundamentos de computo\\act1_u2\\fundamentosdecomputo\\mapaches_bigoton\\mapaches_bigoton\\mapaches_bigoton\\agendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}|Mapaches_Bigoton\\Mapaches_Bigoton.csproj|solutionrelative:mapaches_bigoton\\agendarcita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}|Mapaches_Bigoton\\Mapaches_Bigoton.csproj|c:\\git\\fundamentos de computo\\act1_u2\\fundamentosdecomputo\\mapaches_bigoton\\mapaches_bigoton\\mapaches_bigoton\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CFE08BD2-4597-4DD5-A449-6DC50C2D7F78}|Mapaches_Bigoton\\Mapaches_Bigoton.csproj|solutionrelative:mapaches_bigoton\\citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -55,6 +59,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AgendarCita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Git\\fundamentos de computo\\ACT1_u2\\FundamentosDeComputo\\Mapaches_Bigoton\\Mapaches_Bigoton\\Mapaches_Bigoton\\AgendarCita.cs",
+              "RelativeDocumentMoniker": "Mapaches_Bigoton\\AgendarCita.cs",
+              "ToolTip": "C:\\Git\\fundamentos de computo\\ACT1_u2\\FundamentosDeComputo\\Mapaches_Bigoton\\Mapaches_Bigoton\\Mapaches_Bigoton\\AgendarCita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Mapaches_Bigoton\\AgendarCita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:43:22.112Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Citas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Git\\fundamentos de computo\\ACT1_u2\\FundamentosDeComputo\\Mapaches_Bigoton\\Mapaches_Bigoton\\Mapaches_Bigoton\\Citas.cs",
               "RelativeDocumentMoniker": "Mapaches_Bigoton\\Citas.cs",
@@ -66,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Git\\fundamentos de computo\\ACT1_u2\\FundamentosDeComputo\\Mapaches_Bigoton\\Mapaches_Bigoton\\Mapaches_Bigoton\\Menu.cs",
               "RelativeDocumentMoniker": "Mapaches_Bigoton\\Menu.cs",
