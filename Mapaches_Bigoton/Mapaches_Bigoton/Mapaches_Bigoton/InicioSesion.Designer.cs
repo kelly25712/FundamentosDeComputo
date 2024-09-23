@@ -73,10 +73,10 @@
             // btnIniciarSesion
             // 
             btnIniciarSesion.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            btnIniciarSesion.Location = new Point(12, 255);
+            btnIniciarSesion.Location = new Point(12, 245);
             btnIniciarSesion.Margin = new Padding(3, 2, 3, 2);
             btnIniciarSesion.Name = "btnIniciarSesion";
-            btnIniciarSesion.Size = new Size(108, 22);
+            btnIniciarSesion.Size = new Size(108, 31);
             btnIniciarSesion.TabIndex = 3;
             btnIniciarSesion.Text = "Iniciar Sesion";
             btnIniciarSesion.UseVisualStyleBackColor = true;
@@ -85,10 +85,10 @@
             // btnCancelar
             // 
             btnCancelar.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
-            btnCancelar.Location = new Point(144, 255);
+            btnCancelar.Location = new Point(145, 245);
             btnCancelar.Margin = new Padding(3, 2, 3, 2);
             btnCancelar.Name = "btnCancelar";
-            btnCancelar.Size = new Size(82, 22);
+            btnCancelar.Size = new Size(82, 31);
             btnCancelar.TabIndex = 4;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = true;

@@ -142,9 +142,9 @@
             label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.Location = new Point(182, 9);
             label1.Name = "label1";
-            label1.Size = new Size(210, 30);
+            label1.Size = new Size(243, 30);
             label1.TabIndex = 10;
-            label1.Text = "El Mapache Bigotón";
+            label1.Text = "EL MAPACHE BIGOTON";
             // 
             // Menu
             // 

@@ -44,9 +44,11 @@
             // 
             // btnRegresar
             // 
-            btnRegresar.Location = new Point(45, 30);
+            btnRegresar.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            btnRegresar.Location = new Point(40, 11);
+            btnRegresar.Margin = new Padding(3, 2, 3, 2);
             btnRegresar.Name = "btnRegresar";
-            btnRegresar.Size = new Size(94, 29);
+            btnRegresar.Size = new Size(82, 31);
             btnRegresar.TabIndex = 0;
             btnRegresar.Text = "Regresar";
             btnRegresar.UseVisualStyleBackColor = true;
@@ -56,10 +58,11 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nombre, Numero, Hora, Fecha, Servicio, Costo });
-            dataGridView1.Location = new Point(72, 76);
+            dataGridView1.Location = new Point(40, 57);
+            dataGridView1.Margin = new Padding(3, 2, 3, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(677, 316);
+            dataGridView1.Size = new Size(622, 237);
             dataGridView1.TabIndex = 1;
             // 
             // Nombre
@@ -107,17 +110,20 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(296, 9);
+            label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(206, 15);
             label1.Name = "label1";
-            label1.Size = new Size(291, 20);
+            label1.Size = new Size(325, 21);
             label1.TabIndex = 2;
             label1.Text = "AGENDA DE CITAS EL MAPACHE BIGOTON";
             // 
             // btnCerrar
             // 
-            btnCerrar.Location = new Point(545, 409);
+            btnCerrar.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            btnCerrar.Location = new Point(477, 307);
+            btnCerrar.Margin = new Padding(3, 2, 3, 2);
             btnCerrar.Name = "btnCerrar";
-            btnCerrar.Size = new Size(94, 29);
+            btnCerrar.Size = new Size(82, 28);
             btnCerrar.TabIndex = 3;
             btnCerrar.Text = "Cerrar";
             btnCerrar.UseVisualStyleBackColor = true;
@@ -125,9 +131,11 @@
             // 
             // btnCargar
             // 
-            btnCargar.Location = new Point(252, 409);
+            btnCargar.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold);
+            btnCargar.Location = new Point(149, 307);
+            btnCargar.Margin = new Padding(3, 2, 3, 2);
             btnCargar.Name = "btnCargar";
-            btnCargar.Size = new Size(94, 29);
+            btnCargar.Size = new Size(120, 28);
             btnCargar.TabIndex = 4;
             btnCargar.Text = "Cargar datos";
             btnCargar.UseVisualStyleBackColor = true;
@@ -135,14 +143,16 @@
             // 
             // Citas
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            BackColor = Color.RosyBrown;
+            ClientSize = new Size(700, 346);
             Controls.Add(btnCargar);
             Controls.Add(btnCerrar);
             Controls.Add(label1);
             Controls.Add(dataGridView1);
             Controls.Add(btnRegresar);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Citas";
             Text = "Citas";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
